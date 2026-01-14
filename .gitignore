@@ -1,2 +1,7 @@
-.qodo/
 .DS_Store
+.qodo/
+node_modules/
+.env
+*.log
+.vscode/
+.idea/
