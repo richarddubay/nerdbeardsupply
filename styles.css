@@ -36,8 +36,6 @@ a {
   display: flex;
   flex-direction: column;
   justify-content: space-between;
-  background-image: linear-gradient(rgba(6, 8, 15, 0.55), rgba(6, 8, 15, 0.55)),
-    url("https://images.unsplash.com/photo-1601597116760-4ba0a582f40a?q=80&w=1600&auto=format&fit=crop");
   background-size: cover;
   background-position: center;
   background-color: var(--green);
